@@ -1,7 +1,7 @@
 <template>
   <div class="bg-white">
     <section class="text-gray-600 body-font relative">
-      <div class="container px-5 py-24 mx-auto">
+      <div class="container px-5 py-16 mx-auto">
         <div class="flex flex-col text-center w-full mb-12">
           <h1
             class="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900"
@@ -73,7 +73,7 @@
                     stroke-linecap="round"
                     stroke-linejoin="round"
                     stroke-width="2"
-                    class="w-5 h-5"
+                    class="w-5 h-5  "
                     viewBox="0 0 24 24"
                   >
                     <path

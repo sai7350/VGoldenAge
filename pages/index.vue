@@ -1,6 +1,6 @@
 <template>
   <div>
-    <section class="text-gray-600 mb-9 body-font">
+    <section class="text-gray-600 mb-14 body-font">
       <div
         class="container mx-auto flex px-3 py-9 md:flex-row flex-col items-start"
       >
@@ -75,14 +75,20 @@
     </section>
     <Features />
     <Photos/>
+    <Photos2/>
     <Unique/>
-   
+   <!-- <hr /> -->
+   <AboutUs/>
     <hr/>
     <ContactUs/>
   </div>
 </template>
 
 <script>
+
+
+
+
 
 </script>
 

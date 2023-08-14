@@ -1,9 +1,9 @@
 <template>
-  <div class="bg-white">
+  <div class="bg-slate-100">
     <section class="text-gray-600 body-font">
       <div class="container px-5 py-16 mx-auto">
         <div class="flex flex-wrap w-full mb-20">
-          <div class="lg:w-1/2 w-full mb-6 lg:mb-0">
+          <div class="lg:w-1/2 w-full mb-6  lg:mb-0">
             <h1
               class="sm:text-3xl text-2xl font-medium title-font mb-2 text-gray-900"
             >
@@ -20,7 +20,7 @@
         </div>
         <div class="flex flex-wrap -m-4">
           <div
-            class="xl:w-1/4 md:w-2/5 hover:shadow-lg bg-white rounded-md p-2"
+            class="xl:w-1/4 md:w-2/5 hover:shadow-lg bg-white rounded-md ml-3 p-2"
           >
             <div class="bg-white p-4 rounded-lg">
               <div class="flex">
@@ -47,7 +47,7 @@
           </div>
 
           <div
-            class="xl:w-1/4 md:w-2/5 hover:shadow-lg ml-28 bg-white rounded-md p-2"
+            class="xl:w-1/4 md:w-2/5 hover:shadow-lg ml-36 bg-white rounded-md p-2"
           >
             <div class="bg-white p-4 rounded-lg">
               <div class="flex">
@@ -74,7 +74,7 @@
           </div>
 
           <div
-            class="xl:w-1/4 md:w-2/5 hover:shadow-lg mt-6 bg-white rounded-md p-2"
+            class="xl:w-1/4 md:w-2/5 hover:shadow-lg mt-6 bg-white rounded-md ml-3 p-2"
           >
             <div class="bg-white p-4 rounded-lg">
               <div class="flex">
@@ -101,7 +101,7 @@
           </div>
 
           <div
-            class="xl:w-1/4 md:w-2/5 hover:shadow-lg ml-28 mt-6 bg-white rounded-md p-2"
+            class="xl:w-1/4 md:w-2/5 hover:shadow-lg ml-28 mt-6 ml-36 bg-white rounded-md p-2"
           >
             <div class="bg-white p-4 rounded-lg">
               <div class="flex">
