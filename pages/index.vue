@@ -18,11 +18,11 @@
             Care, Healthy Food, Secure Living & Companionship.
           </p>
           <div class="flex">
-            <button
-              class="inline-flex text-white bg-indigo-500 border-0 py-2 btn glass focus:outline-none hover:bg-indigo-700 rounded text-lg"
+            <NuxtLink to="/contactUs"
+               class="inline-flex text-white bg-indigo-500 border-0 py-2 btn glass focus:outline-none hover:bg-indigo-700 rounded text-lg"
             >
               Contact Us
-            </button>
+            </NuxtLink>
           </div>
         </div>
         <div class="lg:max-w-lg lg:w-full shadow-lg rounded-md md:w-1/2 w-3/4">
@@ -85,6 +85,8 @@
 </template>
 
 <script>
+
+
 
 
 

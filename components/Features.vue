@@ -101,7 +101,7 @@
           </div>
 
           <div
-            class="xl:w-1/4 md:w-2/5 hover:shadow-lg ml-28 mt-6 ml-36 bg-white rounded-md p-2"
+            class="xl:w-1/4 md:w-2/5 hover:shadow-lg mt-6 ml-36 bg-white rounded-md p-2"
           >
             <div class="bg-white p-4 rounded-lg">
               <div class="flex">
@@ -135,7 +135,7 @@
 </template>
 
 <script>
-export default {};
+
 </script>
 
 <style scoped></style>

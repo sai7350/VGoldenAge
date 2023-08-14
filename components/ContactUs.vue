@@ -53,11 +53,11 @@
               </div>
             </div>
             <div class="p-2  text-center w-full">
-              <button
+              <NuxtLink to="/thanksPage"
               class="inline-flex text-white bg-indigo-500 border-0 py-2 btn glass focus:outline-none hover:bg-indigo-700 rounded text-lg"
             >
               Submit
-            </button>
+            </NuxtLink>
             </div>
             <div
               class="p-2 w-full pt-8 mt-8 border-t border-gray-200 text-center"
