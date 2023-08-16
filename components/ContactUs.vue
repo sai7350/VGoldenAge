@@ -2,6 +2,17 @@
   <div class="bg-white">
     <section class="text-gray-600 body-font relative">
       <div class="container px-5 py-16 mx-auto">
+        <div class="text-center mb-6 ">
+          <h1
+            class="sm:text-3xl text-2xl font-medium title-font text-gray-900 mb-2"
+          >
+    Contact Us
+          </h1>
+          <div class="flex  justify-center">
+            <div class="w-24 h-1 rounded-full bg-indigo-500 inline-flex"></div>
+          </div>
+        </div>
+
         <div class="flex flex-col text-center w-full mb-12">
           <h1
             class="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900"

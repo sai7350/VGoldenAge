@@ -26,6 +26,12 @@
         </li>
      
       <li class="ml-6 hover:shadow-xl p-4 btn glass opacity-70  "><NuxtLink to="/aboutUs">About us</NuxtLink></li>
+
+      <!-- <li class="ml-6 "><NuxtLink to="/contactUs"
+               class="inline-flex text-white bg-indigo-500 border-0 px-2 mt-1 py-1  glass focus:outline-none hover:bg-indigo-700 rounded text-lg"
+            >
+              CONTACT US
+            </NuxtLink></li> -->
     </ul>
   </div>
  

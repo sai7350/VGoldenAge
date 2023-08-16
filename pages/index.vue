@@ -77,14 +77,18 @@
     <Photos/>
     <Photos2/>
     <Unique/>
+    <AdditionalFeatures/>
    <!-- <hr /> -->
    <AboutUs/>
     <hr/>
     <ContactUs/>
+    
   </div>
 </template>
 
 <script>
+
+
 
 
 
